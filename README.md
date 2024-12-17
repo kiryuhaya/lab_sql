@@ -122,20 +122,28 @@ VALUES
    код:
 ```
 SELECT * FROM Место_работы;
-![image](https://github.com/user-attachments/assets/f2071a2d-88aa-46c7-afe4-b602f5fa56bd)
 ```
+
+![image](https://github.com/user-attachments/assets/f2071a2d-88aa-46c7-afe4-b602f5fa56bd)
+
 ```
 SELECT * FROM Автопредприятие;
-![image](https://github.com/user-attachments/assets/28ce563d-7709-4617-9568-704478bf742f)
 ```
+
+![image](https://github.com/user-attachments/assets/28ce563d-7709-4617-9568-704478bf742f)
+
 ```
 SELECT * FROM Техника;
-![image](https://github.com/user-attachments/assets/491b28aa-5d7e-4983-832e-384a456f9f21)
 ```
+
+![image](https://github.com/user-attachments/assets/491b28aa-5d7e-4983-832e-384a456f9f21)
+
 ```
 SELECT * FROM Заказ;
-![image](https://github.com/user-attachments/assets/3ef2b320-fe4b-4eb1-a3cf-406c82c93f11)
 ```
+
+![image](https://github.com/user-attachments/assets/3ef2b320-fe4b-4eb1-a3cf-406c82c93f11)
+
 
 4) Создать запросы для вывода:
    
